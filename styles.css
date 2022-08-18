@@ -1,3 +1,6 @@
-body{
+body {
     background-color: blue;
+}
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
